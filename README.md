@@ -6,4 +6,4 @@
   ### To use this calculator, first run the program in Python. Then input monthly wage. After that, input majority expenses, other expenses and savings. User can name these fields with their liking. But must be careful on managing the percentages. Percentages must add up to 100. 
 
   Example:
-  ![Inputs And Outputs](Screenshot 2026-05-30 143838.png)
+  ![Inputs And Outputs](Screenshot 2026-05-30 143838.png/Screenshot 2026-05-30 143838.png)
