@@ -1,4 +1,4 @@
-Salary = int(input("Input your salary : "))#PaidInternship
+Salary = int(input("Input your salary : "))
 currency = input("Select currency : ")
 
 pit1 = input("Majority expenses(Just type the name) : ")
